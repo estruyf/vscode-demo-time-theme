@@ -1,0 +1,26 @@
+{
+  "name": "vscode-demotime-theme",
+  "displayName": "vscode-demotime-theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Demo Time Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/demotime-dark.json"
+      },
+      {
+        "label": "Demo Time Light",
+        "uiTheme": "vs",
+        "path": "./themes/demotime-light.json"
+      }
+    ]
+  }
+}
