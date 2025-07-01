@@ -7,6 +7,7 @@
     "color": "#0D1321",
     "theme": "dark"
   },
+  "icon": "assets/demotime-128x128.png",
   "version": "0.0.1",
   "badges": [
     {
