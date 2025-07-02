@@ -93,6 +93,8 @@
     "gitDecoration.conflictingResourceForeground": "#d0bfff",
     "diffEditor.insertedTextBackground": "#51cf6622",
     "diffEditor.removedTextBackground": "#ff6b6b22",
+    "debugToolBar.background": "#202736",
+    "debugToolBar.border": "#2d3142",
     "notificationCenter.border": "#505869",
     "notificationToast.border": "#505869",
     "menu.background": "#2d3142",
@@ -208,6 +210,47 @@
     {
       "name": "Operator",
       "scope": "keyword.operator",
+      "settings": {
+        "foreground": "#c4c8d3"
+      }
+    },
+    {
+      "name": "JSON Key - Level 0",
+      "scope": [
+        "source.json meta.structure.dictionary.json support.type.property-name.json"
+      ],
+      "settings": {
+        "foreground": "#ffd43b"
+      }
+    },
+    {
+      "name": "JSON String Values",
+      "scope": ["source.json string.quoted.double.json"],
+      "settings": {
+        "foreground": "#74c0fc"
+      }
+    },
+    {
+      "name": "JSON Numbers",
+      "scope": ["source.json constant.numeric.json"],
+      "settings": {
+        "foreground": "#d0bfff"
+      }
+    },
+    {
+      "name": "JSON Boolean and Null",
+      "scope": ["source.json constant.language.json"],
+      "settings": {
+        "foreground": "#ff6b6b"
+      }
+    },
+    {
+      "name": "JSON Punctuation",
+      "scope": [
+        "source.json punctuation.separator.dictionary.key-value.json",
+        "source.json punctuation.separator.dictionary.pair.json",
+        "source.json punctuation.separator.array.json"
+      ],
       "settings": {
         "foreground": "#c4c8d3"
       }
