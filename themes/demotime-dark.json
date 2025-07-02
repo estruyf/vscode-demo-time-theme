@@ -49,7 +49,7 @@
     "statusBarItem.hoverBackground": "#2d3142",
 
     "titleBar.activeBackground": "#202736",
-    "titleBar.activeForeground": "#081530",
+    "titleBar.activeForeground": "#eaeef6",
     "titleBar.inactiveBackground": "#15181f",
     "titleBar.inactiveForeground": "#9ba4b7",
     "titleBar.border": "#374151",

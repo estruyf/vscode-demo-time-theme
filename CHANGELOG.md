@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.5] - 2025-07-02
+
+- Update title bar active foreground color for better visibility
+
 ## [0.0.4] - 2025-07-02
 
 - Style the quick input and picker group for better visibility
