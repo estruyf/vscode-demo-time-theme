@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Demo Time Dark",
+  "name": "Demo Time Dark Italic",
   "type": "dark",
   "semanticHighlighting": true,
   "colors": {
@@ -289,7 +289,8 @@
         "entity"
       ],
       "settings": {
-        "foreground": "#74c0fc"
+        "foreground": "#74c0fc",
+        "fontStyle": "italic"
       }
     },
     {
@@ -319,7 +320,8 @@
     {
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#d0bfff"
+        "foreground": "#d0bfff",
+        "fontStyle": "italic"
       }
     },
     {
@@ -331,13 +333,15 @@
     {
       "scope": "keyword",
       "settings": {
-        "foreground": "#ff8fb3"
+        "foreground": "#ff8fb3",
+        "fontStyle": "italic"
       }
     },
     {
       "scope": ["storage", "storage.type"],
       "settings": {
-        "foreground": "#ff8fb3"
+        "foreground": "#ff8fb3",
+        "fontStyle": "italic"
       }
     },
     {
@@ -359,7 +363,8 @@
     {
       "scope": "support",
       "settings": {
-        "foreground": "#74c0fc"
+        "foreground": "#74c0fc",
+        "fontStyle": "italic"
       }
     },
     {
@@ -456,13 +461,15 @@
     {
       "scope": "support.constant",
       "settings": {
-        "foreground": "#74c0fc"
+        "foreground": "#74c0fc",
+        "fontStyle": "italic"
       }
     },
     {
       "scope": "support.variable",
       "settings": {
-        "foreground": "#74c0fc"
+        "foreground": "#74c0fc",
+        "fontStyle": "italic"
       }
     },
     {
@@ -474,7 +481,8 @@
     {
       "scope": "meta.module-reference",
       "settings": {
-        "foreground": "#74c0fc"
+        "foreground": "#74c0fc",
+        "fontStyle": "italic"
       }
     },
     {
@@ -486,14 +494,15 @@
     {
       "scope": ["markup.heading", "markup.heading entity.name"],
       "settings": {
-        "fontStyle": "bold",
+        "fontStyle": "bold italic",
         "foreground": "#ffd43b"
       }
     },
     {
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#7ee787"
+        "foreground": "#7ee787",
+        "fontStyle": "italic"
       }
     },
     {

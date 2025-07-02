@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Demo Time Light",
+  "name": "Demo Time Light Italic",
   "type": "light",
   "semanticHighlighting": true,
   "colors": {
@@ -285,7 +285,8 @@
         "entity"
       ],
       "settings": {
-        "foreground": "#005cc5"
+        "foreground": "#005cc5",
+        "fontStyle": "italic"
       }
     },
     {
@@ -315,7 +316,8 @@
     {
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#6f42c1"
+        "foreground": "#6f42c1",
+        "fontStyle": "italic"
       }
     },
     {
@@ -327,13 +329,15 @@
     {
       "scope": "keyword",
       "settings": {
-        "foreground": "#d63384"
+        "foreground": "#d63384",
+        "fontStyle": "italic"
       }
     },
     {
       "scope": ["storage", "storage.type"],
       "settings": {
-        "foreground": "#d63384"
+        "foreground": "#d63384",
+        "fontStyle": "italic"
       }
     },
     {
@@ -355,7 +359,8 @@
     {
       "scope": "support",
       "settings": {
-        "foreground": "#005cc5"
+        "foreground": "#005cc5",
+        "fontStyle": "italic"
       }
     },
     {
@@ -452,13 +457,15 @@
     {
       "scope": "support.constant",
       "settings": {
-        "foreground": "#005cc5"
+        "foreground": "#005cc5",
+        "fontStyle": "italic"
       }
     },
     {
       "scope": "support.variable",
       "settings": {
-        "foreground": "#005cc5"
+        "foreground": "#005cc5",
+        "fontStyle": "italic"
       }
     },
     {
@@ -470,7 +477,8 @@
     {
       "scope": "meta.module-reference",
       "settings": {
-        "foreground": "#005cc5"
+        "foreground": "#005cc5",
+        "fontStyle": "italic"
       }
     },
     {
@@ -482,14 +490,15 @@
     {
       "scope": ["markup.heading", "markup.heading entity.name"],
       "settings": {
-        "fontStyle": "bold",
+        "fontStyle": "bold italic",
         "foreground": "#a08000"
       }
     },
     {
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#22863a"
+        "foreground": "#22863a",
+        "fontStyle": "italic"
       }
     },
     {

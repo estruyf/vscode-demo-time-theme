@@ -50,10 +50,20 @@
       {
         "label": "Demo Time Dark",
         "uiTheme": "vs-dark",
+        "path": "./themes/demotime-dark-italic.json"
+      },
+      {
+        "label": "Demo Time Dark (no italic)",
+        "uiTheme": "vs-dark",
         "path": "./themes/demotime-dark.json"
       },
       {
         "label": "Demo Time Light",
+        "uiTheme": "vs",
+        "path": "./themes/demotime-light-italic.json"
+      },
+      {
+        "label": "Demo Time Light (no italic)",
         "uiTheme": "vs",
         "path": "./themes/demotime-light.json"
       }

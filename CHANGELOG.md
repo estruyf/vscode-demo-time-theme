@@ -1,5 +1,12 @@
 # Change Log
 
+## [0.0.6] - 2025-07-02
+
+- Added italic theme variants (Demo Time Dark Italic & Demo Time Light Italic)
+- Enhanced typography with italic styling for keywords, functions, constants, and support elements
+- Improved markdown headers with bold italic styling for better hierarchy
+- Complete feature parity with regular themes plus elegant italic enhancements
+
 ## [0.0.5] - 2025-07-02
 
 - Update title bar active foreground color for better visibility
