@@ -1,5 +1,11 @@
 # Change Log
 
+## [0.0.4] - 2025-07-02
+
+- Style the quick input and picker group for better visibility
+- Enhanced markdown headers with consistent yellow color scheme for better hierarchy
+- Added comprehensive markdown syntax highlighting support
+
 ## [0.0.3] - 2025-07-02
 
 - New logo

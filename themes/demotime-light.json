@@ -18,7 +18,7 @@
     "editorBracketMatch.background": "#ffd43b22",
     "editorBracketMatch.border": "#ffd43b",
     "editorGroupHeader.tabsBackground": "#f4f6fa",
-    "editorGroupHeader.tabsBorder": "#d1d5db",/Users/eliostruyf/Dropbox/demo time/logo/demotime-theme.png
+    "editorGroupHeader.tabsBorder": "#d1d5db",
 
     "activityBar.background": "#eaeef6",
     "activityBar.foreground": "#11161c",
@@ -105,7 +105,15 @@
     "menu.selectionForeground": "#15181f",
     "menubar.selectionBackground": "#ffd43b44",
     "menubar.selectionForeground": "#15181f",
-    "tree.indentGuidesStroke": "#bcc4d1"
+    "tree.indentGuidesStroke": "#bcc4d1",
+
+    "quickInput.background": "#ffffff",
+    "quickInput.foreground": "#202736",
+    "quickInputTitle.background": "#f4f6fa",
+    "quickInputList.focusBackground": "#e1e4e8",
+    "quickInputList.focusForeground": "#202736",
+    "pickerGroup.border": "#bcc4d1",
+    "pickerGroup.foreground": "#505869"
   },
   "tokenColors": [
     {
@@ -255,6 +263,42 @@
       ],
       "settings": {
         "foreground": "#505869"
+      }
+    },
+    {
+      "name": "Markdown - Heading 1",
+      "scope": ["heading.1.markdown", "entity.name.section.markdown"],
+      "settings": {
+        "foreground": "#a08000",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Markdown - Heading 2",
+      "scope": ["heading.2.markdown"],
+      "settings": {
+        "foreground": "#916c00",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Markdown - Heading 3",
+      "scope": ["heading.3.markdown"],
+      "settings": {
+        "foreground": "#805800",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Markdown - Heading 4-6",
+      "scope": [
+        "heading.4.markdown",
+        "heading.5.markdown",
+        "heading.6.markdown"
+      ],
+      "settings": {
+        "foreground": "#704400",
+        "fontStyle": "bold"
       }
     }
   ]
