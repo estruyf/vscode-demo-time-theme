@@ -7,6 +7,7 @@
 ## [0.0.2] - 2025-07-02
 
 - Better JSON highlighting
+- Improved accessibility with better contrast ratios and border visibility
 
 ## [0.0.1] - 2025-07-01
 
