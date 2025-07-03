@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.8] - 2025-07-03
+
+- Enhanced color vibrancy for better visual contrast and readability
+
 ## [0.0.7] - 2025-07-03
 
 - Enhanced italic theme engine with improved scope detection and font style handling
