@@ -1,5 +1,13 @@
 # Change Log
 
+## [0.0.7] - 2025-07-03
+
+- Enhanced italic theme engine with improved scope detection and font style handling
+- Updated italic scope definitions to match all scopes from source themes that have italic styling
+- Improved consistency between light and dark italic variants
+- Fixed font style processing to properly handle combined styles (e.g., "bold italic", "italic underline")
+- Better separation of concerns between regular and italic theme generation
+
 ## [0.0.6] - 2025-07-02
 
 - Added italic theme variants (Demo Time Dark Italic & Demo Time Light Italic)
