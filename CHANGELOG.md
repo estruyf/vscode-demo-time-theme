@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.9] - 2025-07-03
+
+- Improved comment color for dark theme
+
 ## [0.0.8] - 2025-07-03
 
 - Enhanced color vibrancy for better visual contrast and readability

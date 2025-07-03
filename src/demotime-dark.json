@@ -4,7 +4,7 @@
     {
       "scope": ["comment", "punctuation.definition.comment", "string.comment"],
       "settings": {
-        "foreground": "#5C6773",
+        "foreground": "#8B949E",
         "fontStyle": "italic"
       }
     },
