@@ -1,5 +1,5 @@
 {
-  "name": "Demo Time Dark",
+  "name": "Demo Time Light",
   "tokenColors": [
     {
       "scope": ["comment", "punctuation.definition.comment", "string.comment"],
