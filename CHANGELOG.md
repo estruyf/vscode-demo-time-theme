@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.10] - 2025-07-03
+
+- Added the build step to the GitHub Actions workflow
+
 ## [0.0.9] - 2025-07-03
 
 - Improved comment color for dark theme

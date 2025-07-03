@@ -273,7 +273,7 @@
         "string.comment"
       ],
       "settings": {
-        "foreground": "#5C6773"
+        "foreground": "#8B949E"
       }
     },
     {
@@ -334,7 +334,7 @@
         "support.class.component"
       ],
       "settings": {
-        "foreground": "#3FC1A0"
+        "foreground": "#4ECDC4"
       }
     },
     {
@@ -368,7 +368,7 @@
         "string punctuation.section.embedded source"
       ],
       "settings": {
-        "foreground": "#A69ACF"
+        "foreground": "#B794F6"
       }
     },
     {
@@ -446,7 +446,7 @@
         "string.regexp"
       ],
       "settings": {
-        "foreground": "#A69ACF"
+        "foreground": "#B794F6"
       }
     },
     {
@@ -457,7 +457,7 @@
         "string.regexp string.regexp.arbitrary-repitition"
       ],
       "settings": {
-        "foreground": "#A69ACF"
+        "foreground": "#B794F6"
       }
     },
     {
@@ -601,7 +601,7 @@
     {
       "scope": "meta.diff.range",
       "settings": {
-        "foreground": "#A69ACF",
+        "foreground": "#B794F6",
         "fontStyle": "bold"
       }
     },
@@ -649,7 +649,7 @@
         "string.other.link"
       ],
       "settings": {
-        "foreground": "#A69ACF"
+        "foreground": "#B794F6"
       }
     }
   ]
