@@ -1,4 +1,4 @@
-# Demo Time Theme for Visual Studio Code
+# Demo Time Theme
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Festruyf%2Fvscode-demo-time-theme&label=Visitors&countColor=%23ffd43b&style=flat)
 
@@ -6,10 +6,24 @@ A vibrant and modern VS Code theme inspired by the colors of [Demo Time](https:/
 
 ## 🎨 Theme Variants
 
-This extension includes two beautiful theme variants:
+This extension includes four beautiful theme variants:
 
-- **Demo Time Dark** - A sleek dark theme perfect for late-night coding sessions
-- **Demo Time Light** - A clean light theme ideal for daytime development
+- **Demo Time Dark (Italic)** – Sleek dark theme with italic styling for keywords and comments (default)
+- **Demo Time Dark** – Same dark theme with standard (non-italic) styling
+- **Demo Time Light (Italic)** – Clean light theme with italic styling for keywords and comments (default)
+- **Demo Time Light** – Same light theme with standard (non-italic) styling
+
+Each theme comes in both regular and italic versions, so you can choose the style that best fits your coding preferences.
+
+### Preview
+
+#### Dark Theme
+
+![Demo Time Dark Theme](assets/screenshots/dark.png)
+
+#### Light Theme
+
+![Demo Time Light Theme](assets/screenshots/light.png)
 
 ## ✨ Features
 

@@ -1,5 +1,11 @@
 # Change Log
 
+## [0.0.13] - 2025-07-04
+
+- Added visual screenshots to README showcasing both dark and light theme variants
+- Enhanced documentation to clearly describe all four theme options (regular and italic versions)
+- Improved README structure with preview section for better user experience
+
 ## [0.0.12] - 2025-07-04
 
 - Refined chat request bubble background for better visibility

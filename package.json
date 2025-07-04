@@ -45,6 +45,18 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark-theme",
+    "light-theme",
+    "color-theme",
+    "demo-time",
+    "presentation",
+    "demo",
+    "modern",
+    "vibrant",
+    "yellow"
+  ],
   "contributes": {
     "themes": [
       {
