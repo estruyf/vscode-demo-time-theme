@@ -1,5 +1,7 @@
 # Demo Time Theme for Visual Studio Code
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Festruyf%2Fvscode-demo-time-theme&label=Visitors&countColor=%23ffd43b&style=flat)
+
 A vibrant and modern VS Code theme inspired by the colors of [Demo Time](https://demotime.show) - the ultimate tool for creating presentations and demos straight in your editor.
 
 ## 🎨 Theme Variants
