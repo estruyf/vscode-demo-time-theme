@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.14] - 2025-07-04
+
+- Improved search result readability in the dark theme by softening the search highlight background colors
+
 ## [0.0.13] - 2025-07-04
 
 - Added visual screenshots to README showcasing both dark and light theme variants
