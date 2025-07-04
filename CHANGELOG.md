@@ -1,5 +1,11 @@
 # Change Log
 
+## [0.0.11] - 2025-07-04
+
+- Added comprehensive chat UI support with proper theming
+- Enhanced UI coverage with additional VS Code interface elements
+- Improved overall theme completeness and consistency
+
 ## [0.0.10] - 2025-07-03
 
 - Added the build step to the GitHub Actions workflow
