@@ -333,7 +333,7 @@
     "chat.avatarForeground": "#d9dbe1",
     "chat.editedFileForeground": "#e2c08d",
     "chat.requestCodeBorder": "#004972b8",
-    "chat.requestBubbleBackground": "#ffd43b14",
+    "chat.requestBubbleBackground": "#2d3142fd",
     "chat.linesAddedForeground": "#54b05480",
     "chat.linesRemovedForeground": "#fc6a6a80"
   },

@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.12] - 2025-07-04
+
+- Refined chat request bubble background for better visibility
+
 ## [0.0.11] - 2025-07-04
 
 - Added comprehensive chat UI support with proper theming
