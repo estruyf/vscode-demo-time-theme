@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.15] - 2025-07-06
+
+- Updated the status bar item warning and error colors
+
 ## [0.0.14] - 2025-07-04
 
 - Improved search result readability in the dark theme by softening the search highlight background colors
