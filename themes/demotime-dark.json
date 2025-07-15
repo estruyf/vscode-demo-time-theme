@@ -6,7 +6,7 @@
   "colors": {
     "focusBorder": "#ffd43b",
     "foreground": "#D9DBE1",
-    "descriptionForeground": "#9ba4b7",
+    "descriptionForeground": "#bfc7d5",
     "errorForeground": "#ff6b6b",
     "textLink.foreground": "#74c0fc",
     "textLink.activeForeground": "#74c0fc",
@@ -130,7 +130,7 @@
     "editorWidget.background": "#202736",
     "editor.foldBackground": "#6b72801a",
     "editor.lineHighlightBackground": "#202736",
-    "editorLineNumber.foreground": "#6b7280",
+    "editorLineNumber.foreground": "#a8b2c4",
     "editorLineNumber.activeForeground": "#ffd43b",
     "editorIndentGuide.background1": "#2d3142",
     "editorIndentGuide.activeBackground1": "#505869",
@@ -313,7 +313,7 @@
     "listFilterWidget.noMatchesOutline": "#ff6b6b",
     "listFilterWidget.shadow": "#0000005c",
     "list.filterMatchBackground": "#ffd43b80",
-    "list.deemphasizedForeground": "#6b7280",
+    "list.deemphasizedForeground": "#a8b2c4",
     "tree.inactiveIndentGuidesStroke": "#2d314266",
     "tree.tableColumnsBorder": "#37415121",
     "tree.tableOddRowsBackground": "#D9DBE10a",
@@ -539,19 +539,19 @@
     {
       "scope": "support.constant",
       "settings": {
-        "foreground": "#3EC8E8"
+        "foreground": "#58D680"
       }
     },
     {
       "scope": "support.variable",
       "settings": {
-        "foreground": "#3EC8E8"
+        "foreground": "#8bb3ff"
       }
     },
     {
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#58D680"
+        "foreground": "#4ECDC4"
       }
     },
     {
@@ -573,13 +573,13 @@
       ],
       "settings": {
         "fontStyle": "bold italic",
-        "foreground": "#ffd43b"
+        "foreground": "#e6be36"
       }
     },
     {
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#58D680"
+        "foreground": "#4ECDC4"
       }
     },
     {
@@ -677,7 +677,7 @@
     {
       "scope": "meta.diff.header",
       "settings": {
-        "foreground": "#3EC8E8"
+        "foreground": "#74c0fc"
       }
     },
     {

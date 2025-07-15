@@ -196,21 +196,21 @@
     {
       "scope": "support.constant",
       "settings": {
-        "foreground": "#3EC8E8",
+        "foreground": "#58D680",
         "fontStyle": "italic"
       }
     },
     {
       "scope": "support.variable",
       "settings": {
-        "foreground": "#3EC8E8",
+        "foreground": "#8bb3ff",
         "fontStyle": "italic"
       }
     },
     {
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#58D680"
+        "foreground": "#4ECDC4"
       }
     },
     {
@@ -230,13 +230,13 @@
       "scope": ["markup.heading", "markup.heading entity.name"],
       "settings": {
         "fontStyle": "bold italic",
-        "foreground": "#ffd43b"
+        "foreground": "#e6be36"
       }
     },
     {
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#58D680",
+        "foreground": "#4ECDC4",
         "fontStyle": "italic"
       }
     },
@@ -324,7 +324,7 @@
     {
       "scope": "meta.diff.header",
       "settings": {
-        "foreground": "#3EC8E8"
+        "foreground": "#74c0fc"
       }
     },
     {

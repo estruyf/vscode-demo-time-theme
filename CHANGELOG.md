@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.16] - 2025-07-15
+
+- Align colors from JSON and YAML files for consistency
+
 ## [0.0.15] - 2025-07-06
 
 - Updated the status bar item warning and error colors
