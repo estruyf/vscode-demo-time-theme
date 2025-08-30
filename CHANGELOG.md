@@ -1,5 +1,15 @@
 # Change Log
 
+## [0.0.16] - 2025-08-30
+
+- Updated quick input and picker group styles for better visibility in dark theme
+- Better contrast background for editor text matching in the light theme
+- Improved activity bar highlight and border colors for better contrast in the light theme
+- Replaced muted gold (#a08000) with vibrant accent yellow (#ffd43b) for consistency and accessibility
+- Enhanced picker, quick input, and selection backgrounds for clarity
+- General accessibility and contrast improvements across UI elements
+- Updated git decoration colors in the light theme for better fit (#ffd43b for modified, #005cc5 for conflicting, etc.)
+
 ## [0.0.15] - 2025-07-06
 
 - Updated the status bar item warning and error colors

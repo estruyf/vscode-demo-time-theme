@@ -89,7 +89,7 @@
     {
       "scope": ["string", "string punctuation.section.embedded source"],
       "settings": {
-        "foreground": "#22863a"
+        "foreground": "#7C3AED"
       }
     },
     {
@@ -204,7 +204,7 @@
     {
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#22863a"
+        "foreground": "#00a384"
       }
     },
     {
