@@ -1,6 +1,6 @@
 # Change Log
 
-## [0.0.16] - 2025-08-30
+## [0.0.17] - 2025-08-30
 
 - Updated quick input and picker group styles for better visibility in dark theme
 - Better contrast background for editor text matching in the light theme
@@ -9,6 +9,10 @@
 - Enhanced picker, quick input, and selection backgrounds for clarity
 - General accessibility and contrast improvements across UI elements
 - Updated git decoration colors in the light theme for better fit (#ffd43b for modified, #005cc5 for conflicting, etc.)
+
+## [0.0.16] - 2025-07-15
+
+- Align colors from JSON and YAML files for consistency
 
 ## [0.0.15] - 2025-07-06
 

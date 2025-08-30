@@ -13,7 +13,7 @@
   "colors": {
     "focusBorder": "#ffd43b",
     "foreground": "#D9DBE1",
-    "descriptionForeground": "#9ba4b7",
+    "descriptionForeground": "#bfc7d5", // lighter for better contrast
     "errorForeground": "#ff6b6b",
     "textLink.foreground": "#74c0fc",
     "textLink.activeForeground": "#74c0fc",
@@ -140,7 +140,7 @@
     "editorWidget.background": "#202736",
     "editor.foldBackground": "#6b72801a",
     "editor.lineHighlightBackground": "#202736",
-    "editorLineNumber.foreground": "#6b7280",
+    "editorLineNumber.foreground": "#a8b2c4", // higher contrast for line numbers
     "editorLineNumber.activeForeground": "#ffd43b",
     "editorIndentGuide.background1": "#2d3142",
     "editorIndentGuide.activeBackground1": "#505869",
@@ -325,7 +325,7 @@
     "listFilterWidget.noMatchesOutline": "#ff6b6b",
     "listFilterWidget.shadow": "#0000005c",
     "list.filterMatchBackground": "#ffd43b80",
-    "list.deemphasizedForeground": "#6b7280",
+    "list.deemphasizedForeground": "#a8b2c4", // higher contrast for deemphasized text
     "tree.inactiveIndentGuidesStroke": "#2d314266",
     "tree.tableColumnsBorder": "#37415121",
     "tree.tableOddRowsBackground": "#D9DBE10a",
