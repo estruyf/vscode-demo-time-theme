@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.19] - 2026-01-30
+
+- Improved button styles for better visibility and interaction feedback
+
 ## [0.0.18] - 2026-01-29
 
 - Enhanced secondary button hover state (#757083) for clearer interaction

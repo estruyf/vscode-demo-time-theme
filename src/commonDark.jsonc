@@ -25,12 +25,21 @@
     "textSeparator.foreground": "#2d3142",
     "icon.foreground": "#9ba4b7",
     "keybindingLabel.foreground": "#D9DBE1",
+    
     "button.background": "#ffd43b",
     "button.foreground": "#15181f",
     "button.hoverBackground": "#e6be36",
     "button.secondaryBackground": "#757083",
     "button.secondaryForeground": "#D9DBE1",
     "button.secondaryHoverBackground": "#757083",
+    
+    "extensionButton.background": "#757083",
+    "extensionButton.foreground": "#D9DBE1",
+    "extensionButton.hoverBackground": "#757083",
+    "extensionButton.prominentBackground": "#ffd43b",
+    "extensionButton.prominentForeground": "#15181f",
+    "extensionButton.prominentHoverBackground": "#e6be36",
+
     "checkbox.background": "#202736",
     "checkbox.border": "#374151",
     "dropdown.background": "#202736",
